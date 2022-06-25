@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🚀 I’m currently on my way to become java Full-Stack Developer
 
 ⚡ Fun fact: I love java (Don't hate me)
-### Languages and Tools:
+###  Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/75170699/133462085-245c5372-cc54-4b2e-8c8e-f946d7dacaad.png" />
 <img align="left" alt="HTML5" width="26px" src=
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="java" width="28px" src="https://user-images.githubusercontent.com/86606639/175787248-77a1df3c-0d15-4fe6-9df8-f98f4be900e0.png" />
 
-
+Languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FELONYANGO&layout=compact)](https://github.com/FELONYANGO/github-readme-stats)
