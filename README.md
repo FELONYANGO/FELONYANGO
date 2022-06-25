@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Terminal" width="29px" src="https://user-images.githubusercontent.com/75170699/133461089-17fd006c-33a1-403e-b12f-7cc90d8dd3aa.png" />
 
-<img align="left" alt="java" width="29px" src="https://user-images.githubusercontent.com/86606639/175787248-77a1df3c-0d15-4fe6-9df8-f98f4be900e0.png" />
- <br />
-####Languages 
+<img align="left" alt="java" width="29px" src="https://user-images.githubusercontent.com/86606639/175787248-77a1df3c-0d15-4fe6-9df8-f98f4be900e0.png" /><br />
+
+<br />
+<br />
+
+Languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FELONYANGO&layout=compact)](https://github.com/FELONYANGO/github-readme-stats)
