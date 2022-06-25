@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I love java (Don't hate me)
 ### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/75170699/133462085-245c5372-cc54-4b2e-8c8e-f946d7dacaad.png" />
