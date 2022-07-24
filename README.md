@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ![felonyango's github stats](https://github-readme-stats.vercel.app/api?username=FELONYANGO&theme=highcontrast&show_icons=true)
   
-  "The Linux Guy" 🐧 | Web and java Developer 🌐 
+  "The Linux Guy" 🐧 | Web  Developer 🌐 
 
 🚀 I’m currently on my way to become java Full-Stack Developer
 
-⚡ Fun fact: I love java (Don't hate me)
+⚡ Fun fact: I love development(Don't hate me)
 ###  Tools:
 
 <img align="left" alt="Visual Studio Code" width="29px" src="https://user-images.githubusercontent.com/75170699/133462085-245c5372-cc54-4b2e-8c8e-f946d7dacaad.png" />
