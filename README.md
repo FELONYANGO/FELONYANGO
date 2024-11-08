@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 <br>
 
   ![FELONYANGO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FELONYANGO&theme=onedark&hide_border=true)<br>
-  "The Linux Guy" 🐧 | Web  Developer 🌐 
+  "The Linux Guy" 🐧 | Web  Developer 🌐 |Devops|cloud Engineering
+  
 
-🚀 I’m currently on my way to become java Full-Stack Developer
+🚀 I’m currently Devops engineer(cloude Engineer,AWS)
 
 ⚡ Fun fact: I love development(Don't hate me)
 ###  Tools:
