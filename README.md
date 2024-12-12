@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![FELONYANGO Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
+[![contribution Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   "The Linux Guy" 🐧 | Web  Developer 🌐 |Devops|cloud Engineering
   
 
