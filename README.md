@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FELONYANGO)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FELONYANGO&theme=dayfox)](https://git.io/streak-stats)</br>
 </br>
   "The Linux Guy" 🐧 | Web  Developer 🌐 |Devops|cloud Engineering
   
