@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Contribution Streak](https://streak-stats.demolab.com/user=FELONYANNGO)](https://git.io/streak-stats)</br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=FELONYANGO)](https://git.io/streak-stats)
+</br>
   "The Linux Guy" 🐧 | Web  Developer 🌐 |Devops|cloud Engineering
   
 
