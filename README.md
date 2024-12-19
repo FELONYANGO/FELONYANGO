@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </br>
 ### Archivements..
 
-[Github profile_trophy](https://github-profile-trophy.vercel.app/?username=FELONYANGO&theme=dracula&row=2&column=4&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)</br>[![trophy](https://github-profile-trophy.vercel.app/?username=FELONYANGO)](https://github.com/ryo-ma/github-profile-trophy)
+[Github profile_trophy](https://github-profile-trophy.vercel.app/?username=FELONYANGO&theme=dracula&row=2&column=4&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)</br>[![trophy](https://github-profile-trophy.vercel.app/?username=FELONYANGO&theme=dayfox))](https://github.com/ryo-ma/github-profile-trophy)
   "The Linux Guy" 🐧 | Web  Developer 🌐 |Devops|cloud Engineering
   
 
