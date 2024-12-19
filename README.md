@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ### Streaks....
-<br>
+
 ![FELONYANGO's Stats](https://github-readme-stats.vercel.app/api?username=FELONYANGO&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 ![FELONYANGO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FELONYANGO&theme=onedark&show_icons=true&hide_border=true&layout=compact)  
 
-<br>
+<br></br>
+### Streaks..
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FELONYANGO&theme=dayfox)](https://git.io/streak-stats)</br>
 </br>
