@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FELONYANGO&theme=dayfox)](https://git.io/streak-stats)</br>
 </br>
+### Archivements..
+
+[Github profile_trophy](https://github-profile-trophy.vercel.app/?username=FELOMNYANGO&theme=dracula&row=2&column=4&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)</br>
   "The Linux Guy" 🐧 | Web  Developer 🌐 |Devops|cloud Engineering
   
 
